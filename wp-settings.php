@@ -1,4 +1,4 @@
-<?php echo 'sai';
+<?php
 
 /**
  * Used to set up and fix common variables and include
